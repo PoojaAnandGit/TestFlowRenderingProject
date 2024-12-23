@@ -28,6 +28,11 @@ packages:
   gitUrl: https://github.com/santhu736852
   gitUsername: PoojaAnandGit
   gitBranch: main
+- name: testControls_1
+  gitServerName: test
+  gitUrl: https://github.com/PoojaAnandGit
+  gitUsername: PoojaAnandGit
+  gitBranch: main
 services:
 - serviceName: project.testflowrendering.integrations:parentFlow
   packages:
